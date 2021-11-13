@@ -1,0 +1,15 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .hero h1 {
+      top: o;
+      right: 80px;
+      bottom: 15px;
+      left: 80px;
+      font-weight: normal;
+      font-size: 42px;
+      font-style: italic;
+  }
